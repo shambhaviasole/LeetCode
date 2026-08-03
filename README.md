@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shambhaviasole/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shambhaviasole/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shambhaviasole/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shambhaviasole/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shambhaviasole/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shambhaviasole/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shambhaviasole/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shambhaviasole/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shambhaviasole/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shambhaviasole/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shambhaviasole/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shambhaviasole/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -100,12 +103,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shambhaviasole/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shambhaviasole/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shambhaviasole/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shambhaviasole/LeetCode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shambhaviasole/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shambhaviasole/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
