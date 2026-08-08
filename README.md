@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/shambhaviasole/LeetCode/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shambhaviasole/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/shambhaviasole/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/shambhaviasole/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
